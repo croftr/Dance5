@@ -78,13 +78,6 @@ legend {
 	color: black;
 }
 
-
-
-
-
-
-
-
 article#quotes{
 	clear: left;
 	position: relative;
@@ -119,11 +112,6 @@ article#imap > iframe {
 	width: 400px; 
 	height: 300px; 
 }
-
-.bolder{
-	font-weight: bolder;
-}
-
 
 div#dancePupils{
 	margin-left: auto;
