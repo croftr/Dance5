@@ -1,0 +1,75 @@
+/****************************** Shows ************************************************/
+
+span { line-height:3em; font-size:1em; font-weight:bold; color:#FFFF99;}
+
+div#charity{
+	margin-left: 10px;
+	margin-top: 30px;
+	width: 530px;
+}
+
+div#tube {
+	width : 270px;
+	height: 50px;
+	margin-top: -4px;
+	margin-left: 85px;
+	float: left;	
+}
+
+div#tube img{
+	position: relative;
+	top: 20px;
+	width: 50px;
+    height: 50px;
+    padding-left: 7px;
+    margin-right: 10px;
+    box-shadow: 10px 10px 5px #300000;
+}
+
+div#magic{
+	clear: both;
+	width: 380px;
+	height: 70px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	margin-bottom: 30px;
+}
+
+div#magic > img{
+	width: 90px;
+	height: 70px;
+	margin-right: 15px;
+	box-shadow: 10px 10px 5px #300000;
+}
+
+div#magic > h2 {
+	display: inline;
+}
+
+div.divas{
+	margin-left: auto;
+	margin-right: auto;
+	height: 200px;
+	width: 640px;	
+}
+
+div.divas > div {
+	float: left;
+	margin-right: 10px;
+}
+
+
+div.showtitle{
+	width: 500px;
+	height: 80px;
+	clear: left;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -80px
+}
+
+div.divas iframe {
+	width: 300px;
+	height:200px;
+}

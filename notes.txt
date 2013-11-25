@@ -1,0 +1,2 @@
+use 2 css pages, one for small screens and one for wide, switch to wide one when the window width exceeds a certain amount (see jquery novice to ninja).
+Make the contact form use AJAX for submit
