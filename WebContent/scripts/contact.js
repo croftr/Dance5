@@ -3,7 +3,8 @@ $( document ).ready(function() {
 	var $first_row = $('form table tr:first');
 	
 	$first_row.hide();
-		
+	
+	/* Use Ajax for form comits */	
 	$('form').submit(function(event){
 		
 		event.preventDefault();
